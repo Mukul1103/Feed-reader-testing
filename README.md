@@ -1,11 +1,11 @@
-How to run :-
+## How to run :-
 
 1. Open index.html
 2. There are several tests at the bottom of page.
 3. Tests are written in /jasmine/spec/feedreader.js file.
 
 
-Defined tests :-
+## Defined tests :-
 
 1. RSS Feeds
 2. The menu
@@ -13,7 +13,7 @@ Defined tests :-
 4. New Feed Selection
 
 
-How it was made :-
+## How it was made :-
 
 1. Use of describe and it method.
 2. Find the error in index.html.
